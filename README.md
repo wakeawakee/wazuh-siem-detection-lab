@@ -152,7 +152,7 @@ curl -s "http://localhost:3000/rest/products/search?q=apple'"
 
 ## 🚀 How to Run Locally
 
-If you want to spin up this lab on your own Linux machine:
+If you want to spin up this lab on your own machine:
 
 ```bash
 # 1. Clone the repository
